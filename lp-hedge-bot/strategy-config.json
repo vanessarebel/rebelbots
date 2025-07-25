@@ -1,0 +1,10 @@
+{
+  "max_lp_hype_ratio": 0.70,
+  "min_lp_hype_ratio": 0.30,
+  "lp_tick_deviation_limit": 200,
+  "hedge_delta_tolerance": 0.1,
+  "max_hedge_leverage": 6,
+  "min_hedge_leverage": 1.5,
+  "hedge_margin": 2000,
+  "slippage": 0.02
+}
